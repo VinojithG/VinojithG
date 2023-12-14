@@ -36,12 +36,12 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinojithab17" />
+<img src="https://github-readme-stats.vercel.app/api?username=VinojithG" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinojithab17" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinojithG" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinojithab17" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinojithG" />
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Vinojithab17" />
+<img src="https://github-profile-trophy.vercel.app/?username=VinojithG" />
 	

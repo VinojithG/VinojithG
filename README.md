@@ -5,10 +5,6 @@
 - 📫 How to reach me cal  +94 763220387
 
 
-<!---
-Vinojithab17/Vinojithab17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### Technologies:
 
@@ -35,13 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=VinojithG" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinojithG" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinojithG" />
-
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=VinojithG" />
 	
